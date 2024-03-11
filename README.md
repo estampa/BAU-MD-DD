@@ -1,1 +1,1 @@
-Notebooks para el curso de Diseño Digital del Màster Universitario en Diseño de BAU
+Notebooks for the Design with Data course at BAU Master in Design Research
